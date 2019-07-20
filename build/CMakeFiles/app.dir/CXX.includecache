@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dragomir/dev/TravellingSalesman/src/main.cpp
+MyLib/MathLib.hpp
+-
+MyLib/engine.hpp
+-
+iostream
+-
+vector
+-
+

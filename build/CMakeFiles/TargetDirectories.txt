@@ -1,0 +1,3 @@
+/home/dragomir/dev/TravellingSalesman/build/CMakeFiles/rebuild_cache.dir
+/home/dragomir/dev/TravellingSalesman/build/CMakeFiles/app.dir
+/home/dragomir/dev/TravellingSalesman/build/CMakeFiles/edit_cache.dir
